@@ -4,7 +4,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 	resize: none;
 }
 #Footer {
-	background-image: url(../images/rest6-bottom-sec-gra.jpg);
+	background-color: #162d50;
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: cover
@@ -195,7 +195,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 		font-weight: 300;
 		text-align: center;
 		cursor: pointer;
-		color: #444;
+		color: #162d50;
 		opacity: 0.33;
 	}
 	.header-simple #Top_bar #menu ul li.submenu .menu-toggle:after {
