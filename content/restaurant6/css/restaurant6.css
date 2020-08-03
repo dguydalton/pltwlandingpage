@@ -2204,7 +2204,7 @@ form input.display-none {
 */
 
 #Top_bar #logo img.logo-sticky, #Top_bar #logo img.logo-mobile, #Top_bar #logo img.logo-mobile-sticky {
-	display: none
+	display: none;
 }
 /* Section --------------------------------------------------------------------------- */
 
