@@ -837,9 +837,9 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 		z-index: 701;
 		background: #fff;
 		opacity: .97;
-		-webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
-		-moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
-		box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1)
+		-webkit-box-shadow: 0 2px 5px 0 #0c203e;
+		-moz-box-shadow: 0 2px 5px 0 #0c203e;
+		box-shadow: 0 2px 5px 0 #0c203e
 	}
 	.layout-boxed.header-boxed #Top_bar.is-sticky {
 		max-width: 1240px;
@@ -904,7 +904,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 		display: none
 	}
 	.sticky-dark #Top_bar.is-sticky, .sticky-dark #Top_bar.is-sticky #menu {
-		background: rgba(0, 0, 0, .8)
+		background: #0c203e
 	}
 	.sticky-dark #Top_bar.is-sticky .menu>li>a {
 		color: #fff
@@ -913,8 +913,8 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 		color: rgba(255, 255, 255, .8)
 	}
 	.sticky-dark #Top_bar.is-sticky .wpml-languages a.active, .sticky-dark #Top_bar.is-sticky .wpml-languages ul.wpml-lang-dropdown {
-		background: rgba(0, 0, 0, 0.1);
-		border-color: rgba(0, 0, 0, 0.1)
+		background: #0c203e;
+		border-color: #0c203e
 	}
 	.sticky-white #Top_bar.is-sticky, .sticky-white #Top_bar.is-sticky #menu {
 		background: rgba(255, 255, 255, .8)
@@ -926,8 +926,8 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 		color: rgba(0, 0, 0, .8)
 	}
 	.sticky-white #Top_bar.is-sticky .wpml-languages a.active, .sticky-white #Top_bar.is-sticky .wpml-languages ul.wpml-lang-dropdown {
-		background: rgba(255, 255, 255, 0.1);
-		border-color: rgba(0, 0, 0, 0.1)
+		background: #0c203e;
+		border-color: #0c203e
 	}
 }
 @media only screen and (max-width: 1239px) {
@@ -1153,13 +1153,13 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 	}
 }
 #Header_wrapper, #Intro {
-	background-color: #252422;
+	background-color: #0c203e;
 }
 #Subheader {
 	background-color: rgba(247, 247, 247, 1);
 }
 .header-classic #Action_bar, .header-fixed #Action_bar, .header-plain #Action_bar, .header-split #Action_bar, .header-stack #Action_bar {
-	background-color: #292b33;
+	background-color: #0c203e;
 }
 #Sliding-top {
 	background-color: #545454;
@@ -1171,7 +1171,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 	border-top-color: #545454;
 }
 #Footer {
-	background-color: #2d2b2a;
+	background-color: #0c203e;
 }
 body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_list ul li a, .list_item a, .list_item a:hover, .widget_recent_entries ul li a, .flat_box a, .flat_box a:hover, .story_box .desc, .content_slider.carouselul li a .title, .content_slider.flat.description ul li .desc, .content_slider.flat.description ul li a .desc, .post-nav.minimal a i {
 	color: #5e5e5e;
@@ -1308,10 +1308,10 @@ a.mfn-link-6:before {
 	}
 }
 #Header .top_bar_left, .header-classic #Top_bar, .header-plain #Top_bar, .header-stack #Top_bar, .header-split #Top_bar, .header-fixed #Top_bar, .header-below #Top_bar, #Header_creative, #Top_bar #menu, .sticky-tb-color #Top_bar.is-sticky {
-	background-color: #2d2b2a;
+	background-color: #0c203e;
 }
 #Top_bar .wpml-languages a.active, #Top_bar .wpml-languages ul.wpml-lang-dropdown {
-	background-color: #2d2b2a;
+	background-color: #0c203e;
 }
 #Top_bar .top_bar_right:before {
 	background-color: #e3e3e3;
@@ -1393,8 +1393,8 @@ a.action_button {
 	background: transparent;
 }
 #Side_slide {
-	background-color: #191919;
-	border-color: #191919;
+	background-color: #0c203e;
+	border-color: #0c203e;
 }
 #Side_slide, #Side_slide .search-wrapper input.field, #Side_slide a:not(.action_button), #Side_slide #menu ul li.submenu .menu-toggle {
 	color: #A6A6A6;
@@ -1454,7 +1454,7 @@ a.action_button {
 	color: #fff;
 }
 #Footer .footer_copy {
-	border-top-color: rgba(255, 255, 255, 0);
+	border-top-color: #0c203e;
 }
 a#back_to_top.button.button_js, #popup_contact>a.button {
 	color: #65666C;
@@ -1633,7 +1633,7 @@ input[type="date"]:focus, input[type="email"]:focus, input[type="number"]:focus,
 }
 @media only screen and (max-width: 767px) {
 	#Top_bar {
-		background-color: #2d2b2a !important;
+		background-color: #0c203e !important;
 	}
 	#Action_bar {
 		background-color: #FFFFFF !important;
@@ -1661,25 +1661,35 @@ html {
 	background-color: #f6f6f6;
 }
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: "Grad", Arial, Tahoma, serif;
 }
 #menu>ul>li>a, a.action_button, #overlay-menu ul li a {
 	font-family: "Cormorant Garamond", Arial, Tahoma, sans-serif;
 }
 #Subheader .title {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: "Proxima Nova", sans-serif;
+	font-style: normal;
+	font-weight: 900;
 }
 h1, h2, h3, h4, .text-logo #logo {
-	font-family: "Cormorant Garamond", Arial, Tahoma, sans-serif;
+	font-family: "Proxima Nova", sans-serif;
+	font-style: normal;
+	font-weight: 900;
 }
 h5, h6 {
-	font-family: "Cormorant Garamond", Arial, Tahoma, sans-serif;
+	font-family: "{Proxima Nova}", sans-serif;
+	font-style: normal;
+	font-weight: 900;
 }
 blockquote {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: "Proxima Nova", sans-serif;
+	font-style: normal;
+	font-weight: 900;
 }
 .chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number, .pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: "Proxima Nova", sans-serif;
+	font-style: normal;
+	font-weight: 900;
 }
 body {
 	font-size: 16px;
