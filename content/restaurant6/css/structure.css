@@ -1514,7 +1514,7 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
 #Top_bar .menu>li>a span:not(.description) {
 	display: block;
 	line-height: 60px;
-	padding: 0 20px;
+	padding: 0 15px;
 	white-space: nowrap;
 	border-right-width: 1px;
 	border-style: solid;
