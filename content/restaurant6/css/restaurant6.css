@@ -11,10 +11,10 @@
   .icon-bar a {
 	display: block;
 	text-align: center;
-	padding: 16px;
+	padding: 20px 20px 20px 20px;
 	transition: all 0.3s ease;
 	color: white;
-	font-size: 20px;
+	font-size: 25px;
   }
   
   /* Style the social media icons with color, if you want */
@@ -1718,7 +1718,7 @@ body, button, span.date_label, .timeline_items li h3 span, input[type="submit"],
 	font-family: "Grad", Arial, Tahoma, serif;
 }
 #menu>ul>li>a, a.action_button, #overlay-menu ul li a {
-	font-family: "Cormorant Garamond", Arial, Tahoma, sans-serif;
+	font-family: "Proxima Nova", Arial, Tahoma, sans-serif;
 }
 #Subheader .title {
 	font-family: "Proxima Nova", sans-serif;
@@ -1777,11 +1777,12 @@ h1, .text-logo #logo {
 	line-height: 72px;
 	font-weight: 400;
 	letter-spacing: 0px;
+	
 }
 h2 {
 	font-size: 48px;
 	line-height: 58px;
-	font-weight: 600;
+	font-f
 	letter-spacing: 0px;
 }
 h3 {
