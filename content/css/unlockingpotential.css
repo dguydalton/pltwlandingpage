@@ -1228,7 +1228,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 	background-color: #0c203e;
 }
 body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_list ul li a, .list_item a, .list_item a:hover, .widget_recent_entries ul li a, .flat_box a, .flat_box a:hover, .story_box .desc, .content_slider.carouselul li a .title, .content_slider.flat.description ul li .desc, .content_slider.flat.description ul li a .desc, .post-nav.minimal a i {
-	color: #5e5e5e;
+	color: #2b2b2b;
 }
 .post-nav.minimal a svg {
 	fill: #5e5e5e;
@@ -1344,7 +1344,7 @@ a.mfn-link-6:before {
 	color: #fff !important;
 }
 .column_column ul, .column_column ol, .the_content_wrapper ul, .the_content_wrapper ol {
-	color: #737E86;
+	color: #2b2b2b;
 }
 .hr_color, .hr_color hr, .hr_dots span {
 	color: #0095eb;
