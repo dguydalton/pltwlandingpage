@@ -1234,13 +1234,13 @@ body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_li
 	fill: #5e5e5e;
 }
 .themecolor, .opening_hours .opening_hours_wrapper li span, .fancy_heading_icon .icon_top, .fancy_heading_arrows .icon-right-dir, .fancy_heading_arrows .icon-left-dir, .fancy_heading_line .title, .button-love a.mfn-love, .format-link .post-title .icon-link, .pager-single>span, .pager-single a:hover, .widget_meta ul, .widget_pages ul, .widget_rss ul, .widget_mfn_recent_comments ul li:after, .widget_archive ul, .widget_recent_comments ul li:after, .widget_nav_menu ul, .woocommerce ul.products li.product .price, .shop_slider .shop_slider_ul li .item_wrapper .price, .woocommerce-page ul.products li.product .price, .widget_price_filter .price_label .from, .widget_price_filter .price_label .to, .woocommerce ul.product_list_widget li .quantity .amount, .woocommerce .product div.entry-summary .price, .woocommerce .star-rating span, #Error_404 .error_pic i, .style-simple #Filters .filters_wrapper ul li a:hover, .style-simple #Filters .filters_wrapper ul li.current-cat a, .style-simple .quick_fact .title {
-	color: #8b6f5c;
+	color: #0095eb;
 }
 .themebg, #comments .commentlist>li .reply a.comment-reply-link, #Filters .filters_wrapper ul li a:hover, #Filters .filters_wrapper ul li.current-cat a, .fixed-nav .arrow, .offer_thumb .slider_pagination a:before, .offer_thumb .slider_pagination a.selected:after, .pager .pages a:hover, .pager .pages a.active, .pager .pages span.page-numbers.current, .pager-single span:after, .portfolio_group.exposure .portfolio-item .desc-inner .line, .Recent_posts ul li .desc:after, .Recent_posts ul li .photo .c, .slider_pagination a.selected, .slider_pagination .slick-active a, .slider_pagination a.selected:after, .slider_pagination .slick-active a:after, .testimonials_slider .slider_images, .testimonials_slider .slider_images a:after, .testimonials_slider .slider_images:before, #Top_bar a#header_cart span, .widget_categories ul, .widget_mfn_menu ul li a:hover, .widget_mfn_menu ul li.current-menu-item:not(.current-menu-ancestor)>a, .widget_mfn_menu ul li.current_page_item:not(.current_page_ancestor)>a, .widget_product_categories ul, .widget_recent_entries ul li:after, .woocommerce-account table.my_account_orders .order-number a, .woocommerce-MyAccount-navigation ul li.is-active a, .style-simple .accordion .question:after, .style-simple .faq .question:after, .style-simple .icon_box .desc_wrapper .title:before, .style-simple #Filters .filters_wrapper ul li a:after, .style-simple .article_box .desc_wrapper p:after, .style-simple .sliding_box .desc_wrapper:after, .style-simple .trailer_box:hover .desc, .tp-bullets.simplebullets.round .bullet.selected, .tp-bullets.simplebullets.round .bullet.selected:after, .tparrows.default, .tp-bullets.tp-thumbs .bullet.selected:after {
-	background-color: #8b6f5c;
+	background-color: #0095eb;
 }
 .Latest_news ul li .photo, .Recent_posts.blog_news ul li .photo, .style-simple .opening_hours .opening_hours_wrapper li label, .style-simple .timeline_items li:hover h3, .style-simple .timeline_items li:nth-child(even):hover h3, .style-simple .timeline_items li:hover .desc, .style-simple .timeline_items li:nth-child(even):hover, .style-simple .offer_thumb .slider_pagination a.selected {
-	border-color: #8b6f5c;
+	border-color: #0095eb;
 }
 a {
 	color: #fff;
@@ -1293,15 +1293,15 @@ a.button, a.tp-button {
 	color: #fff;
 }
 a.button_theme, a.tp-button.button_theme, button, input[type="submit"], input[type="reset"], input[type="button"] {
-	background-color: #8b6f5c;
+	background-color: #0095eb;
 	color: #fff;
 }
 .button-stroke a.button.button_theme, .button-stroke a.button.button_theme .button_icon i, .button-stroke a.tp-button.button_theme, .button-stroke button, .button-stroke input[type="submit"], .button-stroke input[type="reset"], .button-stroke input[type="button"] {
-	border-color: #8b6f5c;
-	color: #8b6f5c !important;
+	border-color: #0095eb;
+	color: #0095eb !important;
 }
 .button-stroke a.button.button_theme:hover, .button-stroke a.tp-button.button_theme:hover, .button-stroke button:hover, .button-stroke input[type="submit"]:hover, .button-stroke input[type="reset"]:hover, .button-stroke input[type="button"]:hover {
-	background-color: #8b6f5c !important;
+	background-color: #0095eb !important;
 	color: #ffffff !important;
 }
 a.mfn-link {
@@ -1320,27 +1320,27 @@ a.mfn-link-6:before {
 	border-bottom-color: #007cc3;
 }
 .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover {
-	background-color: #8b6f5c;
+	background-color: #0095eb;
 	color: #fff;
 }
 .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
-	background-color: #8b6f5c;
+	background-color: #0095eb;
 	color: #fff;
 }
 .woocommerce #respond input#submit.disabled, .woocommerce #respond input#submit:disabled, .woocommerce #respond input#submit[disabled]:disabled, .woocommerce a.button.disabled, .woocommerce a.button:disabled, .woocommerce a.button[disabled]:disabled, .woocommerce button.button.disabled, .woocommerce button.button:disabled, .woocommerce button.button[disabled]:disabled, .woocommerce input.button.disabled, .woocommerce input.button:disabled, .woocommerce input.button[disabled]:disabled {
-	background-color: #8b6f5c;
+	background-color: #0095eb;
 	color: #fff;
 }
 .woocommerce #respond input#submit.disabled:hover, .woocommerce #respond input#submit:disabled:hover, .woocommerce #respond input#submit[disabled]:disabled:hover, .woocommerce a.button.disabled:hover, .woocommerce a.button:disabled:hover, .woocommerce a.button[disabled]:disabled:hover, .woocommerce button.button.disabled:hover, .woocommerce button.button:disabled:hover, .woocommerce button.button[disabled]:disabled:hover, .woocommerce input.button.disabled:hover, .woocommerce input.button:disabled:hover, .woocommerce input.button[disabled]:disabled:hover {
-	background-color: #8b6f5c;
+	background-color: #0095eb;
 	color: #fff;
 }
 .button-stroke.woocommerce-page #respond input#submit, .button-stroke.woocommerce-page a.button, .button-stroke.woocommerce-page button.button, .button-stroke.woocommerce-page input.button {
-	border: 2px solid #8b6f5c !important;
-	color: #8b6f5c !important;
+	border: 2px solid #0095eb !important;
+	color: #0095eb !important;
 }
 .button-stroke.woocommerce-page #respond input#submit:hover, .button-stroke.woocommerce-page a.button:hover, .button-stroke.woocommerce-page button.button:hover, .button-stroke.woocommerce-page input.button:hover {
-	background-color: #8b6f5c !important;
+	background-color: #0095eb !important;
 	color: #fff !important;
 }
 .column_column ul, .column_column ol, .the_content_wrapper ul, .the_content_wrapper ol {
@@ -1596,10 +1596,10 @@ a.content_link:after {
 	border-top-color: #0095eb;
 }
 .timeline_items li h3:before, .timeline_items:after, .timeline .post-item:before {
-	border-color: #8b6f5c;
+	border-color: #0095eb;
 }
 .how_it_works .image .number {
-	background: #8b6f5c;
+	background: #0095eb;
 }
 .trailer_box .desc .subtitle, .trailer_box.plain .desc .line {
 	background-color: #0095eb;
@@ -1614,10 +1614,10 @@ a.content_link:after {
 	background-color: #0095eb;
 }
 ul.clients.clients_tiles li .client_wrapper:hover:before {
-	background: #8b6f5c;
+	background: #0095eb;
 }
 ul.clients.clients_tiles li .client_wrapper:after {
-	border-bottom-color: #8b6f5c;
+	border-bottom-color: #0095eb;
 }
 .list_item.lists_1 .list_left {
 	background-color: #0095eb;
@@ -1638,7 +1638,7 @@ ul.clients.clients_tiles li .client_wrapper:after {
 	background: #0095eb;
 }
 body.table-hover:not(.woocommerce-page) table tr:hover td {
-	background: #8b6f5c;
+	background: #0095eb;
 }
 .pricing-box .plan-header .price sup.currency, .pricing-box .plan-header .price>span {
 	color: #0095eb;
@@ -1675,10 +1675,10 @@ input[type="date"]:focus, input[type="email"]:focus, input[type="number"]:focus,
 	color: #fff;
 }
 .woocommerce span.onsale, .shop_slider .shop_slider_ul li .item_wrapper span.onsale {
-	border-top-color: #8b6f5c !important;
+	border-top-color: #085eac !important;
 }
 .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
-	border-color: #8b6f5c !important;
+	border-color: #085eac !important;
 }
 @media only screen and (min-width: 768px) {
 	.header-semi #Top_bar:not(.is-sticky) {
@@ -1715,7 +1715,7 @@ html {
 	background-color: #f6f6f6;
 }
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
-	font-family: "Grad", Arial, Tahoma, serif;
+	font-family: "Proxima Nova", Arial, Tahoma, sans-serif;
 }
 #menu>ul>li>a, a.action_button, #overlay-menu ul li a {
 	font-family: "Proxima Nova", Arial, Tahoma, sans-serif;
@@ -1727,7 +1727,7 @@ body, button, span.date_label, .timeline_items li h3 span, input[type="submit"],
 }
 h1, h2, h3, h4, .text-logo #logo {
 	font-family: "Proxima Nova", sans-serif;
-	font-style: normal;
+	font-style: strong;
 	font-weight: 900;
 }
 h5, h6 {
@@ -1746,21 +1746,20 @@ blockquote {
 	font-weight: 900;
 }
 body {
-	font-size: 16px;
+	font-size: 20px;
 	line-height: 32px;
-	font-weight: 300;
+	font-weight: 450;
 	letter-spacing: 0px;
 }
 .big {
 	font-size: 16px;
-	line-height: 28px;
+	line-height: 25px;
 	font-weight: 400;
 	letter-spacing: 0px;
 }
 #menu>ul>li>a, a.action_button, #overlay-menu ul li a {
 	font-size: 16px;
-	font-weight: 400;
-	letter-spacing: 1px;
+	font-weight: 600
 }
 #overlay-menu ul li a {
 	line-height: 24px;
@@ -1773,16 +1772,15 @@ body {
 	font-style: italic;
 }
 h1, .text-logo #logo {
-	font-size: 70px;
-	line-height: 72px;
-	font-weight: 400;
-	letter-spacing: 0px;
+	font-size: 80px;
+	line-height: 80px;
+	font-weight: 900
 	
 }
 h2 {
-	font-size: 48px;
-	line-height: 58px;
-	font-f
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: 700;
 	letter-spacing: 0px;
 }
 h3 {
@@ -1845,7 +1843,7 @@ h6 {
 		letter-spacing: 0px;
 	}
 	h2 {
-		font-size: 41px;
+		font-size: 20px;
 		line-height: 49px;
 		letter-spacing: 0px;
 	}
@@ -2081,7 +2079,7 @@ h6 {
 		letter-spacing: 0px;
 	}
 	h2 {
-		font-size: 29px;
+		font-size: 20px;
 		line-height: 35px;
 		letter-spacing: 0px;
 	}
