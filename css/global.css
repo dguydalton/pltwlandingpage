@@ -5530,9 +5530,13 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 }
 /* Flat box -------------------------------------------------------------------------- */
 
-.flat_box a, .flat_box a:hover {
+.flat_box a {
 	display: block;
 	text-decoration: none
+}
+.flat_box a:hover {
+	display: block;
+	text-decoration: underline
 }
 .flat_box .photo_wrapper {
 	margin-bottom: 15px;

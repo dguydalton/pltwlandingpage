@@ -2563,3 +2563,5 @@ jQuery(window).load(function(){
 	jQuery('.before_after.twentytwenty-container').twentytwenty();
 	
 });
+
+

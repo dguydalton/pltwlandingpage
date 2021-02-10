@@ -4,26 +4,27 @@
 	top: 50%;
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
-	transform: translateY(-50%);
+	transform: translateY(1200%);
+   	z-index:1000;
   }
   
   /* Style the icon bar links */
   .icon-bar a {
-	display: block;
+	display: ruby-base-container;
 	text-align: center;
-	padding: 20px 20px 20px 20px;
+	padding: 20px 30px 20px 20px;
 	transition: all 0.3s ease;
-	color: white;
-	font-size: 25px;
+	color: #fff;
+	background-color: #085eac;
+	font-size: 30px;
+	font-weight: 600;
+
   }
   
   /* Style the social media icons with color, if you want */
   .icon-bar a:hover {
-	background-color: #000;
-  }
-  .contact {
-	background: #6aa342;
-	color: white;
+	background-color: #0b203f;
+	text-decoration: none;
   }
 
 input[type="date"], input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"], select, textarea, .woocommerce .quantity input.qty {
@@ -31,6 +32,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 	box-shadow: unset;
 	resize: none;
 }
+
 #Footer {
 	background-color: #162d50;
 	background-repeat: no-repeat;
@@ -48,7 +50,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 		width: 984px
 	}
 	#Top_bar .menu>li>ul.mfn-megamenu>li {
-		float: left
+		float: left;
 	}
 	#Top_bar .menu>li>ul.mfn-megamenu>li.mfn-megamenu-cols-1 {
 		width: 100%
@@ -1267,7 +1269,7 @@ a.button, a.tp-button {
 	color: #fff;
 }
 a.button_theme, a.tp-button.button_theme, button, input[type="submit"], input[type="reset"], input[type="button"] {
-	background-color: #0b203f;
+	background-color: #d74127;
 	color: #fff;
 }
 .button-stroke a.button.button_theme, .button-stroke a.button.button_theme .button_icon i, .button-stroke a.tp-button.button_theme, .button-stroke button, .button-stroke input[type="submit"], .button-stroke input[type="reset"], .button-stroke input[type="button"] {
