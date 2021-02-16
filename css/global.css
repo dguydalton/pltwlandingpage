@@ -5541,7 +5541,7 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 .flat_box .photo_wrapper {
 	margin-bottom: 15px;
 	position: relative;
-	line-height: 0;
+	line-height: 32px;
 	overflow: hidden
 }
 .flat_box .photo_wrapper .icon {
