@@ -19,21 +19,18 @@
 	top: 50%;
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
-	transform: translateY(300px);
+	transform: translateY(320px);
    	z-index:1000;
+	right: 0;
   }
  
   /* Style the icon bar links */
   .icon-bar a {
 	display: ruby-base-container;
 	text-align: center;
-	padding: 20px 30px 20px 20px;
+	padding: 120px 20px 10px 20px;
 	transition: all 0.3s ease;
 	color: #fff;
-	background-color: #6aa342;
-	font-size: 30px;
-	font-weight: 600;
-
   }
   
   /* Style the social media icons with color, if you want */
@@ -2193,7 +2190,7 @@ h6 {
 	}
 }
 #Top_bar #logo, .header-fixed #Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
-	height: 60px;
+	height: 30px;
 	line-height: 60px;
 	padding: 30px 0;
 }
@@ -2364,6 +2361,11 @@ form input.display-none {
 .the-icons.span3 .i-name {
 	padding-left: 40px;
 }
+@media (max-width:767px) {
+	img#optionalstuff {
+	  display: none;
+	}
+  }
 @media only screen and min-width: 768px and max-width: 959px {
 	.the-icons.span3 {
 		width: 33.333%;
