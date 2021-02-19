@@ -33,10 +33,6 @@
 	color: #fff;
   }
   
-  /* Style the social media icons with color, if you want */
-  .icon-bar a:hover {
-	background-color: #0b203f;
-	text-decoration: none;
   }
   .icon-bar a:hover .img-top {
 	display: inline;
