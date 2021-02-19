@@ -2190,7 +2190,7 @@ h6 {
 	}
 }
 #Top_bar #logo, .header-fixed #Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
-	height: 30px;
+	height: 60px;
 	line-height: 60px;
 	padding: 30px 0;
 }
@@ -2364,6 +2364,9 @@ form input.display-none {
 @media (max-width:767px) {
 	img#optionalstuff {
 	  display: none;
+	}
+	#logo-mobile scale-with-grid {
+		max-height: 30px;
 	}
   }
 @media only screen and min-width: 768px and max-width: 959px {
