@@ -32,6 +32,15 @@
 	transition: all 0.3s ease;
 	color: #fff;
   }
+  
+  /* Style the social media icons with color, if you want */
+  .icon-bar a:hover {
+	background-color: #0b203f;
+	text-decoration: none;
+  }
+  .icon-bar a:hover .img-top {
+	display: inline;
+}
 
 input[type="date"], input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"], select, textarea, .woocommerce .quantity input.qty {
 	border-width: 0 0 2px 0 !important;
@@ -2359,8 +2368,10 @@ form input.display-none {
 	img#optionalstuff {
 	  display: none;
 	}
-	.mobile-show {
-		display: block !important;
+  }
+@media (max-width:767px) {
+	img#mobileshow {
+		display: block;
 	 }
   }
 @media only screen and min-width: 768px and max-width: 959px {
