@@ -1802,7 +1802,7 @@ h6 {
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 	body {
 		font-size: 15px;
-		line-height: 25px;
+		line-height: 20px;
 		font-weight: 450;
 		letter-spacing: 0px;
 	}
@@ -1921,8 +1921,8 @@ h6 {
 }
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	body {
-		font-size: 18px;
-		line-height: 32px;
+		font-size: 15px;
+		line-height: 25px;
 		font-weight: 450;
 		letter-spacing: 0px;
 	}
@@ -2043,8 +2043,8 @@ h6 {
 
 	
 	body {
-		font-size: 18px;
-		line-height: 32px;
+		font-size: 15px;
+		line-height: 25px;
 		font-weight: 450;
 		letter-spacing: 0px;
 	}
