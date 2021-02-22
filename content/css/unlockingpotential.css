@@ -19,7 +19,7 @@
 	top: 50%;
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
-	transform: translateY(320px);
+	transform: translateY(auto);
    	z-index:1000;
 	right: 0;
   }
@@ -1802,7 +1802,7 @@ h6 {
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 	body {
 		font-size: 18px;
-		line-height: 32px;
+		line-height: 25px;
 		font-weight: 450;
 		letter-spacing: 0px;
 	}
@@ -1831,7 +1831,7 @@ h6 {
 	}
 	h2 {
 		font-size: 29px;
-		line-height: 49px;
+		line-height: 40px;
 		letter-spacing: 0px;
 	}
 	h3 {
@@ -1950,7 +1950,7 @@ h6 {
 		letter-spacing: 0px;
 	}
 	h2 {
-		font-size: 36px;
+		font-size: 25px;
 		line-height: 44px;
 		letter-spacing: 0px;
 	}
@@ -2040,6 +2040,8 @@ h6 {
 	}
 }
 @media only screen and (max-width: 479px) {
+
+	
 	body {
 		font-size: 18px;
 		line-height: 32px;
@@ -2070,7 +2072,7 @@ h6 {
 		letter-spacing: 0px;
 	}
 	h2 {
-		font-size: 20px;
+		font-size: 25px;
 		line-height: 35px;
 		letter-spacing: 0px;
 	}
@@ -2324,6 +2326,7 @@ form input.display-none {
 		margin-top: 0px;
 	}
 }
+
 /* ------------------------------------------- *
 * font awesome
 * ------------------------------------------- */
@@ -2359,15 +2362,68 @@ form input.display-none {
 .the-icons.span3 .i-name {
 	padding-left: 40px;
 }
+
+.desk-hide {
+    display: none !important;
+ }
+ .desk-show {
+    display: block !important;
+ }
+
+@media screen and (max-width: 767px) {
+
+	.img-max {
+	  width: 100% !important;
+	  max-width: 100% !important;
+	  height: auto !important;
+	}
+   
+	.max-width {
+	  max-width: 100% !important;
+	}
+   
+	.mobile-wrapper {
+	  width: 85% !important;
+	  max-width: 85% !important;
+	}
+   
+	.mobile-padding {
+	  padding-left: 5% !important;
+	  padding-right: 5% !important;
+	}
+   
+	/* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+	.mobile-hide {
+	   display: none !important;
+	}
+	.mobile-show {
+	   display: block !important;
+	}
+	.icon-bar {
+		position: fixed;
+		top: 50%;
+		-webkit-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		transform: translateY(auto);
+		   z-index:1000;
+		right: 0;
+	  }
+	 
+	  /* Style the icon bar links */
+	  .icon-bar a {
+		display: ruby-base-container;
+		text-align: center;
+		padding: 120px 20px 10px 20px;
+		transition: all 0.3s ease;
+		color: #fff;
+	  }
+   
+   }
+
 @media (max-width:767px) {
 	img#optionalstuff {
 	  display: none;
 	}
-  }
-@media (max-width:767px) {
-	img#mobileshow {
-		display: block;
-	 }
   }
 @media only screen and min-width: 768px and max-width: 959px {
 	.the-icons.span3 {
