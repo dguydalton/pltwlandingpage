@@ -7344,21 +7344,8 @@ html, body {
 		width: 100%!important;
 		height: auto!important
 	}
-	.pp_details {
-		width: 100%!important;
-		position: static!important;
-		min-height: 25px
-	}
-	.pp_details a.pp_close {
-		top: auto;
-		right: 25px
-	}
-	div.pp_pic_holder, div.pp_content, div.pp_details {
-		max-width: 100%
-	}
-	div.pp_content {
-		overflow: auto
-	}
+	
+	
 }
 
 /* #Tablet (Portrait) & Mobile (Landscape) 480 - 768 ----------------------- #Tablet (Portrait) & Mobile (Landscape) 480 - 768 */
