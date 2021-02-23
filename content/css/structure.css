@@ -7341,7 +7341,7 @@ html, body {
 		display: none!important
 	}
 	#pp_full_res img {
-		width: 100%!important;
+		width: auto!important;
 		height: auto!important
 	}
 	
